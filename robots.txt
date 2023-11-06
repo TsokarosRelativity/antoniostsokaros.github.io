@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TsokarosRelativity.github.io/antoniostsokaros.github.io//sitemap.xml
+Sitemap: https://tsokarosrelativity.github.io/antoniostsokaros.github.io//sitemap.xml
