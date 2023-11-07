@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Computational Astrophysics Group Members
 nav: true
-nav_order: 6
+nav_order: 1
 
 <h4>Faculty</h4>
 
