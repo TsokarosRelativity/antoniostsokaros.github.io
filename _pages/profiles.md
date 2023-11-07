@@ -6,7 +6,7 @@ description: Computational Astrophysics Group Members
 nav: true
 nav_order: 6
 
-
+<h4>Faculty</h4>
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
