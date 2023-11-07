@@ -12,7 +12,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: Antonios.png
-    title: Assistant Research Professor of Astrophysics
+    title: Research Professor of Astrophysics
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Research Professor, University of Illinois at Urbana-Champaign
+subtitle: Research Professor, University of Illinois at Urbana-Champaign
 
 profile:
   align: right
@@ -13,9 +13,11 @@ profile:
     <p>Department of Physics</p>
     <p>1110 West Green Street</p>
     <p>Urbana, IL 61801-3080</p>
-    <p></p>
-    <p>Phone: (217) 300-4508</p>
-    <p>Fax: (217)333-4898</p>
+    <p>----------</p>
+    <p>Phone:</p> 
+    <p>(217) 300-4508</p>
+    <p>Fax:</p> 
+    <p>(217)333-4898</p>
     <p>E-mail: tsokaros@illinois.edu</p>
 
 news: false  # includes a list of news items
