@@ -6,7 +6,7 @@ subtitle: Assistant Research Professor, University of Illinois at Urbana-Champai
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Antonios.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Illinois at Urbana-Champaign</p>
