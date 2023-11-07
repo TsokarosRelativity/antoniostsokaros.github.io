@@ -6,7 +6,7 @@ description: Computational Astrophysics Group Members
 nav: true
 nav_order: 6
 
-<h4>Faculty</h4>
+
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -28,7 +28,6 @@ profiles:
       <p>Professor of Astrophysics</p>
       <p>slshapir@illinois.edu</p>  
 
-<h4>PostDoc</h4>
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -42,7 +41,7 @@ profiles:
       <p>Postdoctoral Research Associate</p>
       <p>jbamber@illinois.edu</p>
 
-<h4>Graduate</h4>
+
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -55,7 +54,6 @@ profiles:
       <p>Maxwell Anthony-Asher Rizzo</p>
       <p>marizzo2@illinois.edu</p>
 
-<h4>Undergraduate</h4>
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
