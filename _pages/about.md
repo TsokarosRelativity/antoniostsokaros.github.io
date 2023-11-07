@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Research Professor, University of Illinois at Urbana-Champaign
 
