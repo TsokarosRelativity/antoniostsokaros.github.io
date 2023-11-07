@@ -27,9 +27,6 @@ profiles:
       <p>Stuart L. Shapiro</p>
       <p>Professor of Astrophysics</p>
       <p>slshapir@illinois.edu</p>  
-
-
-profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
@@ -40,10 +37,6 @@ profiles:
       <p>James Bamber</p>
       <p>Postdoctoral Research Associate</p>
       <p>jbamber@illinois.edu</p>
-
-
-
-profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
@@ -53,9 +46,6 @@ profiles:
     more_info: >
       <p>Maxwell Anthony-Asher Rizzo</p>
       <p>marizzo2@illinois.edu</p>
-
-
-profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
