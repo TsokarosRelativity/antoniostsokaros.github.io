@@ -13,6 +13,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: Antonios.png
+    title: Assistant Research Professor of Astrophysics
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -21,6 +22,7 @@ profiles:
       <p>tsokaros@illinois.edu</p>
   - align: left
     image: stu.png
+    title: Professor of Astrophysics
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -31,6 +33,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: jamie.png
+    title: Postdoctoral Research Associate
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -41,6 +44,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: maxwell.png
+    title: Graduate student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -50,6 +54,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: eric.png
+    title: Undergraduate student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -57,6 +62,7 @@ profiles:
       <p>ericyu3@illinois.edu</p>
   - align: left
     image: jonah.png
+    title: Undergraduate Student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -64,6 +70,7 @@ profiles:
       <p>jnd2@illinois.edu</p>
   - align: left
     image: nawaf.png
+    title: Undergraduate Student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -71,6 +78,7 @@ profiles:
       <p>aldrees3@illinois.edu</p>
   - align: left
     image: shreyas.png
+    title: Undergraduate Student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -78,6 +86,7 @@ profiles:
       <p>sjammi2@illinois.edu</p>    
   - align: left
     image: rohan.png
+    title: Undergraduate Student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -85,6 +94,7 @@ profiles:
       <p>rohann4@illinois.edu</p>
   - align: left
     image: yinuan.png
+    title: Undergraduate Student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -92,6 +102,7 @@ profiles:
       <p>yinuanl@illinois.edu</p>    
   - align: left
     image: gene.png
+    title: Undergraduate Student
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
