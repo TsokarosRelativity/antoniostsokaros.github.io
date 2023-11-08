@@ -2,7 +2,7 @@
 layout: page
 title: Research
 nav: true
-nav_order: 5
+nav_order: 2
 dropdown: true
 children:
     - title: Isolated Neutron Stars
