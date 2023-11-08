@@ -15,8 +15,6 @@ profile:
     <p>Urbana, IL 61801-3080</p>
     <p>Phone:</p> 
     <p>(217) 300-4508</p>
-    <p>Fax:</p> 
-    <p>(217)333-4898</p>
     <p>E-mail: tsokaros@illinois.edu</p>
 
 news: false  # includes a list of news items
