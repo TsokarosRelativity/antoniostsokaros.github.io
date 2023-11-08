@@ -13,7 +13,6 @@ profile:
     <p>Department of Physics</p>
     <p>1110 West Green Street</p>
     <p>Urbana, IL 61801-3080</p>
-    
     <p>Phone:</p> 
     <p>(217) 300-4508</p>
     <p>Fax:</p> 
