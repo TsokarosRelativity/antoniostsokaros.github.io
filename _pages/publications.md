@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /publications/
-title: Projects
+title: 
 description: 
 nav: true
 nav_order: 3
 ---
 
-# Relevant Research Links
+#### Relevant Research Links
 
 [Inspire Profile](https://inspirehep.net/authors/1069191)
 
