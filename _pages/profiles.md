@@ -19,7 +19,7 @@ profiles:
       <p>Antonios Tsokaros</p>
       <p>Assistant Research Professor of Astrophysics</p>
       <p>tsokaros@illinois.edu</p>
-    align: right
+  - align: right
     image: stu.png
     title: Professor of Astrophysics
     content: 
@@ -59,7 +59,7 @@ profiles:
     more_info: >
       <p>Eric Yu</p>
       <p>ericyu3@illinois.edu</p>
-    align: right
+  - align: right
     image: jonah.png
     title: Undergraduate Student
     content: 
@@ -75,7 +75,7 @@ profiles:
     more_info: >
       <p>Nawaf Aldrees</p>
       <p>aldrees3@illinois.edu</p>
-    align: right
+  - align: right
     image: shreyas.png
     title: Undergraduate Student
     content: 
@@ -91,7 +91,7 @@ profiles:
     more_info: >
       <p>Rohan Narasimhan</p>
       <p>rohann4@illinois.edu</p>
-    align: right
+  - align: right
     image: yinuan.png
     title: Undergraduate Student
     content: 
