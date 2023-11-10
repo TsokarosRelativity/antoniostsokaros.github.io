@@ -11,7 +11,8 @@ layout: page
           <hr>
           <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if profile.image %}
-              {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+            {% for image in profile.image %}
+              {%- assign profile_image_path = image | prepend: 'assets/img/' -%}
 
               {% if profile.image_circular %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
@@ -31,6 +32,8 @@ layout: page
             <div class="more-info">
               {{ profile.more_info }}
             </div>
+            
+            {% endfor %}
             {%- endif %}
           </div>
 
