@@ -1,17 +1,17 @@
 ---
 layout: page
 ---
-
+h2 {text-align: center;}
 <!-- about.html -->
       <div class="post">
 
         <article>
           {% if page.profiles -%}
           {% for profile in page.profiles %}
-          {%- if profile.header %}
-          <h3>{{ profile.header }}</h3>
-          {%- endif %}
           <hr>
+          {%- if profile.header %}
+          <h2>{{ profile.header }}</h2>
+          {%- endif %}
           <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if profile.image %}
               {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}

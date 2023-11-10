@@ -13,7 +13,7 @@ profiles:
   - header: Faculty
     align: left
     image: Antonios.png
-    title: Research Professor of Astrophysics
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -23,7 +23,7 @@ profiles:
   - header: 
     align: right
     image: stu.png
-    title: Professor of Astrophysics
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -35,7 +35,7 @@ profiles:
   - header: Postdocs
     align: left
     image: jamie.png
-    title: Postdoctoral Research Associate
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -47,7 +47,7 @@ profiles:
   - header: Graduate Students
     align: left
     image: maxwell.png
-    title: Graduate student
+    title:
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -58,7 +58,7 @@ profiles:
   - header: Undergraduates
     align: left
     image: eric.png
-    title: Undergraduate student
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -67,7 +67,7 @@ profiles:
   - header: 
     align: right
     image: jonah.png
-    title: Undergraduate Student
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -76,7 +76,7 @@ profiles:
   - header: 
     align: left
     image: nawaf.png
-    title: Undergraduate Student
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -85,7 +85,7 @@ profiles:
   - header: 
     align: right
     image: shreyas.png
-    title: Undergraduate Student
+    title:
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -94,7 +94,7 @@ profiles:
   - header:  
     align: left
     image: rohan.png
-    title: Undergraduate Student
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -103,7 +103,7 @@ profiles:
   - header: 
     align: right
     image: yinuan.png
-    title: Undergraduate Student
+    title:
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -112,7 +112,7 @@ profiles:
   - header: 
     align: left
     image: gene.png
-    title: Undergraduate Student
+    title: 
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
