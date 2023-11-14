@@ -20,7 +20,6 @@ profiles:
       <p>Antonios Tsokaros</p>
       <p>Assistant Research Professor of Astrophysics</p>
       <p>tsokaros@illinois.edu</p>
-  - header: 
     align: right
     image: stu.png
     title: 
@@ -42,6 +41,13 @@ profiles:
       <p>James Bamber</p>
       <p>Postdoctoral Research Associate</p>
       <p>jbamber@illinois.edu</p>
+    align: right
+    image: 
+    title: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+    
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - header: Graduate Students
@@ -53,6 +59,13 @@ profiles:
     more_info: >
       <p>Maxwell Anthony-Asher Rizzo</p>
       <p>marizzo2@illinois.edu</p>
+    align: right
+    image: 
+    title: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - header: Undergraduates
@@ -64,7 +77,6 @@ profiles:
     more_info: >
       <p>Eric Yu</p>
       <p>ericyu3@illinois.edu</p>
-  - header: 
     align: right
     image: jonah.png
     title: 
@@ -81,8 +93,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Nawaf Aldrees</p>
-      <p>aldrees3@illinois.edu</p>
-  - header: 
+      <p>aldrees3@illinois.edu</p> 
     align: right
     image: shreyas.png
     title:
@@ -100,7 +111,6 @@ profiles:
     more_info: >
       <p>Rohan Narasimhan</p>
       <p>rohann4@illinois.edu</p>
-  - header: 
     align: right
     image: yinuan.png
     title:
@@ -118,5 +128,11 @@ profiles:
     more_info: >
       <p>Gene Yun</p>
       <p>geneyun2@illinois.edu</p>  
+    align: right
+    image: 
+    title: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >  
 
 ---

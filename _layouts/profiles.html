@@ -27,7 +27,41 @@ layout: page
               alt=profile.image -%}
             {% endif -%}
             {%- if profile.title %}
-            <h4>{{ profile.title }}</h4>
+            <h4>{{ profile.title }}</h4>  
+            {%- endif %}
+            {%- if profile.more_info %}
+            <div class="more-info">
+              {{ profile.more_info }}
+            </div>
+            {%- endif %}
+          </div>
+
+          <div class="clearfix">
+            {% if profile.content -%}
+            {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+            {%- else -%}
+            {{ content }}
+            {%- endif %}
+          </div>
+
+          <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if profile.image %}
+              {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+
+              {% if profile.image_circular %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {% else %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              {% endif %}
+
+              {% include figure.html
+              path=profile_image_path
+              class=profile_image_class
+              alt=profile.image -%}
+            {% endif -%}
+            {%- if profile.title %}
+            <h4>{{ profile.title }}</h4>  
             {%- endif %}
             {%- if profile.more_info %}
             <div class="more-info">
